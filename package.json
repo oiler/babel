@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/oiler/babel",
-  "repository": { 
-    "type" : "git",
-    "url" : "https://github.com/oiler/babel"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oiler/babel"
   },
   "main": "index.js",
   "scripts": {
