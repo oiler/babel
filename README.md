@@ -20,8 +20,9 @@ gulp.task('default', function() {
 });
 ```
 
-## what to do next
+## what to do after cloning
+1. `npm install`
 1. write your es6 code in any js file inside the `src` folder (src/*.js)
 2. run `gulp`
 3. review your es5 code inside the corresponding `dist` folder (dist/*.js)
-
+4. for example, you can do this by running `node dist/test.js`
