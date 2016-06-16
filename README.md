@@ -5,10 +5,7 @@ for writing es6, a basic install of babel &amp; gulp
 1. `git init babel`
 2. `npm init`
 3. `npm install --save-dev babel-preset-es2015`
-4. create .babelrc
-```
-{ "presets": ["es2015"] }
-```
+4. create .babelrc `{ "presets": ["es2015"] }`
 5. npm install --save-dev gulp
 6. npm install --save-dev gulp-babel
 7. create gulpfile.js
@@ -25,6 +22,6 @@ gulp.task('default', function() {
 
 ## what to do next
 1. write your es6 code in any js file inside the `src` folder (src/*.js)
-2. `gulp`
+2. run `gulp`
 3. review your es5 code inside the corresponding `dist` folder (dist/*.js)
 
