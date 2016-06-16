@@ -6,8 +6,8 @@ for writing es6, a basic install of babel &amp; gulp
 2. `npm init`
 3. `npm install --save-dev babel-preset-es2015`
 4. create .babelrc `{ "presets": ["es2015"] }`
-5. npm install --save-dev gulp
-6. npm install --save-dev gulp-babel
+5. `npm install --save-dev gulp`
+6. `npm install --save-dev gulp-babel`
 7. create gulpfile.js
 ```
 const gulp = require('gulp');
