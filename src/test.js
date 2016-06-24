@@ -4,6 +4,7 @@
 const sentences = [
     { subject: 'JavaScript', verb: 'is', object: 'great' },
     { subject: 'Elephants', verb: 'are', object: 'large' },
+    { subject: 'Pizza', verb: 'is', object: 'good!' },
 ];
 
 // es6 feature: object destructuring
